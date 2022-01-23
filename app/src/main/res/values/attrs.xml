@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="viewColor" format="color"/>
+    <attr name="textColor" format="color"/>
+    <attr name="backgroundColor" format="color"/>
+    <attr name="textSize" format="dimension"/>
+    <attr name="fontFamily" format="string"/>
+    <attr name="textName" format="string"/>
+    <attr name="buttonText" format="string"/>
+    <attr name="buttonMargin" format="dimension"/>
+
+</resources>

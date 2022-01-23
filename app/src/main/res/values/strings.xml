@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChangeThemeDynamically</string>
+
+    <string name="OK">OK</string>
+
+    <string name="def_theme">Theme1</string>
+    <string name="theme_summary">Appearance</string>
+    <string name="theme_dialog_title">Change Theme</string>
+    <string name="settings">Settings</string>
+    <string-array name="themes">
+        <item>Blue Theme</item>
+        <item>Pink Theme</item>
+        <item>Red Theme</item>
+        <item>Theme4</item>
+        <item>Theme5</item>
+        <item>Theme6</item>
+        <item>Theme7</item>
+        <item>Theme8</item>
+        <item>Theme9</item>
+        <item>Theme10</item>
+        <item>Theme11</item>
+        <item>Theme11</item>
+        <item>Theme11</item>
+        <item>Theme11</item>
+        <item>Theme11</item>
+        <item>Theme11</item>
+        <item>Theme11</item>
+        <item>Theme11</item>
+        <item>Theme11</item>
+        <item>Theme11</item>
+        <item>Theme11</item>
+        <item>Theme11</item>
+        <item>Theme11</item>
+        <item>Theme11</item>
+        <item>Theme11</item>
+        <item>Theme11</item>
+        <item>Theme11</item>
+        <item>Theme11</item>
+        <item>Theme11</item>
+        <item>Theme11</item>
+        <item>Theme11</item>
+        <item>Theme11</item>
+    </string-array>
+
+
+</resources>
